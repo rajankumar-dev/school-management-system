@@ -111,7 +111,10 @@ npm start
 ---
 
 ## 📸 Screenshots (Optional)  
-_Add screenshots of login page, dashboard, etc._  
+![Dashboard](https://github.com/rajankumar-dev/school-management-system/blob/main/screenshoots/Screenshot%202025-09-08%20201635.png)
+![Subject](https://github.com/rajankumar-dev/school-management-system/blob/main/screenshoots/Screenshot%202025-09-08%20205021.png)
+![Class](https://github.com/rajankumar-dev/school-management-system/blob/main/screenshoots/Screenshot%202025-09-08%20205041.png)
+![Weekly Report](https://github.com/rajankumar-dev/school-management-system/blob/main/screenshoots/Screenshot%202025-09-08%20205136.png)
 
 ---
 
