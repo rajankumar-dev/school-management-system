@@ -26,6 +26,7 @@ This project provides a complete solution for managing school operations, includ
 
 ## 🔑 Features  
 
+✅ **Responsive UI**
 ✅ **User Authentication & Authorization** (JWT-based)  
 ✅ **Secure Passwords** with Bcrypt encryption  
 ✅ **Protected Routes** – only accessible to authorized users  
@@ -33,7 +34,7 @@ This project provides a complete solution for managing school operations, includ
 ✅ **Form Handling with Validation** (Formik + Yup)  
 ✅ **Global State Management** using Redux Toolkit  
 ✅ **File Upload Support** (e.g., student profile pics, documents)  
-✅ **Responsive UI**  
+  
 
 ---
 
