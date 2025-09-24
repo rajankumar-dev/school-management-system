@@ -69,7 +69,7 @@ school-management-system/
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/school-management-system.git
+git clone https://github.com/rajankumar-dev/school-management-system.git
 cd school-management-system
 ```
 
@@ -85,14 +85,6 @@ npm install
 ```bash
 cd client
 npm install
-```
-
-### 3️⃣ Setup environment variables  
-Create a `.env` file in the **server** directory:  
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
 ```
 
 ### 4️⃣ Run the application  
